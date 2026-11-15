@@ -15,14 +15,32 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 Open Fusion 360 and create a new design.
 <img width="657" height="627" alt="Screenshot 2026-11-16 015836" src="https://github.com/user-attachments/assets/cd8b20f1-683c-460f-b9bd-2ae208e42ed7" />
+
+
+
 Select the XY plane and start a sketch.
+
+
+
 Draw circles and the outer profile using Line and Arc tools.
 <img width="592" height="491" alt="Screenshot 2026-11-16 020302" src="https://github.com/user-attachments/assets/de401363-d3df-458f-ad6a-a746631e8b56" />
+
+
+
 Create the central star-shaped opening using arcs and Trim.
 <img width="227" height="326" alt="Screenshot 2026-11-16 020603" src="https://github.com/user-attachments/assets/4c7ff296-af50-4f76-92a6-f6919ac5d482" />
+
+
+
 Apply the required dimensions
+
+
+
 Finish the sketch and use Extrude to create the 3D model.
 <img width="665" height="711" alt="Screenshot 2026-11-16 020756" src="https://github.com/user-attachments/assets/05f51c91-70d5-40ea-80a0-1152402417c0" />
+
+
+
 Check the final model and save the design.
 <img width="756" height="465" alt="image" src="https://github.com/user-attachments/assets/86654aec-efcc-4d10-9c46-f671848099d9" />
 
